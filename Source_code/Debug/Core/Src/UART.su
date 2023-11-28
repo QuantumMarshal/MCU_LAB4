@@ -1,0 +1,3 @@
+UART.c:10:6:clear	8	static
+UART.c:14:6:command_parser_fsm	8	static
+UART.c:38:6:uart_communication_fsm	8	static
